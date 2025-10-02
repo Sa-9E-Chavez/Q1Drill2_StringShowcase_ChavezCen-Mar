@@ -20,6 +20,3 @@ def show_message(event):
     """
 
     display(message, target="output")
-
-
-
